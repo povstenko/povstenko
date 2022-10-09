@@ -1,5 +1,13 @@
 ### Hi there 👋
-This GitHub profile contains all projects and homeworks from period of my IT STEP University student life. Here you can see repositories about machine learning, web development, solving algorithmic tasks, and various projects
+This GitHub profile contains all projects and homeworks from period of my IT STEP University student life. 
+
+Here you can see repositories of: 
+- machine learning tasks, 
+- web development ptojects, 
+- solving of algorithmic tasks, 
+- telegram bots,
+- programming tasks,
+- and various projects
 
 <!--
 **povstenko/povstenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
